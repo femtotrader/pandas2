@@ -185,6 +185,8 @@ template class IntegerArray<Int32Type>;
 template class IntegerArray<UInt64Type>;
 template class IntegerArray<Int64Type>;
 
+template class NumericArray<FloatType>;
+template class NumericArray<DoubleType>;
 template class FloatingArray<FloatType>;
 template class FloatingArray<DoubleType>;
 
