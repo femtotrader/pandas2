@@ -25,8 +25,8 @@
 <tr>
   <td>Build Status</td>
   <td>
-    <a href="https://travis-ci.org/pandas-dev/pandas">
-    <img src="https://travis-ci.org/pandas-dev/pandas.svg?branch=master" alt="travis build status" />
+    <a href="https://travis-ci.org/pandas-dev/pandas2">
+    <img src="https://travis-ci.org/pandas-dev/pandas2.svg?branch=master" alt="travis build status" />
     </a>
   </td>
 </tr>
